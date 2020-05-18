@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\bin\Debug\DemoDraw.exe.config
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\bin\Debug\DemoDraw.exe
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\bin\Debug\DemoDraw.pdb
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.Properties.Resources.resources
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.exe
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.pdb
+C:\Users\dio\source\repos\DemoDraw\DemoDraw\obj\Debug\DemoDraw.DemoDraw.resources

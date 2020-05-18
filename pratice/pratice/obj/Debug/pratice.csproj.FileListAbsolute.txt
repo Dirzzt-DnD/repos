@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.Form1.resources
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.Properties.Resources.resources
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\pratice\pratice\bin\Debug\pratice.exe.config
+C:\Users\dio\source\repos\pratice\pratice\bin\Debug\pratice.exe
+C:\Users\dio\source\repos\pratice\pratice\bin\Debug\pratice.pdb
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.exe
+C:\Users\dio\source\repos\pratice\pratice\obj\Debug\pratice.pdb

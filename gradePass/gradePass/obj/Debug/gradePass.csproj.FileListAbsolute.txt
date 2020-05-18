@@ -1,0 +1,8 @@
+C:\Users\dio\source\repos\gradePass\gradePass\obj\Debug\gradePass.Gradepass.resources
+C:\Users\dio\source\repos\gradePass\gradePass\obj\Debug\gradePass.Properties.Resources.resources
+C:\Users\dio\source\repos\gradePass\gradePass\obj\Debug\gradePass.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\gradePass\gradePass\bin\Debug\gradePass.exe.config
+C:\Users\dio\source\repos\gradePass\gradePass\bin\Debug\gradePass.exe
+C:\Users\dio\source\repos\gradePass\gradePass\bin\Debug\gradePass.pdb
+C:\Users\dio\source\repos\gradePass\gradePass\obj\Debug\gradePass.exe
+C:\Users\dio\source\repos\gradePass\gradePass\obj\Debug\gradePass.pdb

@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\dio\source\repos\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\dio\source\repos\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.BMI.resources
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\dio\source\repos\BMI\BMI\obj\Debug\BMI.pdb

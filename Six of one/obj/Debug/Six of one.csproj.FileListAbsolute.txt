@@ -1,0 +1,12 @@
+C:\Users\dio\source\repos\Six of one\bin\Debug\Six of one.exe.config
+C:\Users\dio\source\repos\Six of one\bin\Debug\Six of one.exe
+C:\Users\dio\source\repos\Six of one\bin\Debug\Six of one.pdb
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six of one.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six_of_one.Properties.Resources.resources
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six of one.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six of one.exe
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six of one.pdb
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six_of_one.SixOfOne.resources
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six_of_one.inputBox.resources
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six_of_one.SingleVer.resources
+C:\Users\dio\source\repos\Six of one\obj\Debug\Six_of_one.GameSelect.resources

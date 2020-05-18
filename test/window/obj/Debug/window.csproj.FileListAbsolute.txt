@@ -1,0 +1,12 @@
+C:\Users\dio\source\repos\test\window\bin\Debug\window.exe.config
+C:\Users\dio\source\repos\test\window\bin\Debug\window.exe
+C:\Users\dio\source\repos\test\window\bin\Debug\window.pdb
+C:\Users\dio\source\repos\test\window\obj\Debug\window.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\test\window\obj\Debug\window.multipe.resources
+C:\Users\dio\source\repos\test\window\obj\Debug\window.Properties.Resources.resources
+C:\Users\dio\source\repos\test\window\obj\Debug\window.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\test\window\obj\Debug\window.exe
+C:\Users\dio\source\repos\test\window\obj\Debug\window.pdb
+C:\Users\dio\source\repos\test\window\obj\Debug\window.draft1.resources
+C:\Users\dio\source\repos\test\window\obj\Debug\window.draft2.resources
+C:\Users\dio\source\repos\test\window\obj\Debug\window.inputbox.resources

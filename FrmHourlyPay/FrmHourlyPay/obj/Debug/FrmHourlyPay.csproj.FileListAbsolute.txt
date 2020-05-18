@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\bin\Debug\FrmHourlyPay.exe.config
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\bin\Debug\FrmHourlyPay.exe
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\bin\Debug\FrmHourlyPay.pdb
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.HourlyPay.resources
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.Properties.Resources.resources
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.exe
+C:\Users\dio\source\repos\FrmHourlyPay\FrmHourlyPay\obj\Debug\FrmHourlyPay.pdb

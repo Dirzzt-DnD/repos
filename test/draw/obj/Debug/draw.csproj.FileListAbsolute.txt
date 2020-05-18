@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\test\draw\bin\Debug\draw.exe.config
+C:\Users\dio\source\repos\test\draw\bin\Debug\draw.exe
+C:\Users\dio\source\repos\test\draw\bin\Debug\draw.pdb
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.Form1.resources
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.Properties.Resources.resources
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.exe
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.pdb
+C:\Users\dio\source\repos\test\draw\obj\Debug\draw.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\bin\Debug\LabExecrise 1.exe.config
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\bin\Debug\LabExecrise 1.exe
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\bin\Debug\LabExecrise 1.pdb
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise 1.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise_1.Form1.resources
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise_1.Properties.Resources.resources
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise 1.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise 1.exe
+C:\Users\dio\source\repos\LabExecrise 1\LabExecrise 1\obj\Debug\LabExecrise 1.pdb

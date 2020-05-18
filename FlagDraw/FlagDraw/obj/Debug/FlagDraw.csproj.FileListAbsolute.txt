@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\bin\Debug\FlagDraw.exe.config
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\bin\Debug\FlagDraw.exe
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\bin\Debug\FlagDraw.pdb
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.Form1.resources
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.Properties.Resources.resources
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.exe
+C:\Users\dio\source\repos\FlagDraw\FlagDraw\obj\Debug\FlagDraw.pdb

@@ -1,0 +1,9 @@
+C:\Users\dio\source\repos\revision\revision\bin\Debug\revision.exe.config
+C:\Users\dio\source\repos\revision\revision\bin\Debug\revision.exe
+C:\Users\dio\source\repos\revision\revision\bin\Debug\revision.pdb
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.csprojAssemblyReference.cache
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.Form1.resources
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.Properties.Resources.resources
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.csproj.GenerateResource.cache
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.exe
+C:\Users\dio\source\repos\revision\revision\obj\Debug\revision.pdb
